@@ -4,3 +4,5 @@ Several classes that parses the Alexa JSON and turns them into objects. This off
 ## Copyright and license
 
 InjuryEmotion is licensed under MIT. Documentation under CC BY 3.0.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
